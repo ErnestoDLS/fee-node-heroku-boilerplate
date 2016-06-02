@@ -5,7 +5,7 @@ export default React.createClass({
   render() {
     return (
       <div>
-        <h1>Ernesto De Los Santos</h1>
+        <h1 className="heading">Ernesto De Los Santos</h1>
         <h2>San Antonio Texas</h2>
           <p>I'm 27 years old, born and raised in San Antiono and I have a golden retriever.</p>
           <a href="https://github.com/ErnestoDLS">GitHub Profile</a>
