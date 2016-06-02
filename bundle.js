@@ -25212,7 +25212,7 @@
 	      'div',
 	      null,
 	      _react2.default.createElement(
-	        'h1',
+	        'h2',
 	        null,
 	        'Ernesto De Los Santos'
 	      ),
